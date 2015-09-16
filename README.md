@@ -19,11 +19,17 @@ Thunderstorm has been specifically created for and tested against PHP, HTML, CSS
 
 # Installation
 
+## Using Package Control
+- If you haven't already, install [Sublime Package Control](https://packagecontrol.io/installation)
+- Bring up the Command Palette (Ctrl+Shift+P on Windows/Linux, ⌘+⇧+P on OS X) and type `Install Package`
+- Type `Thunderstorm` to bring it up in the packages list.
+- Select `Thunderstorm` from Preferences -> Color Scheme -> Color Scheme - Thunderstorm
+
 ## Using Git
 - Clone this repo to your local machine
 - Bring up the Command Palette (Ctrl+Shift+P on Windows/Linux, ⌘+⇧+P on OS X) and type `Browse Packages` to open your Packages directory.
 - Copy the .tmTheme file to the `Packages/User` directory
-- Select Thunderstorm from Preferences -> Color Scheme -> User
+- Select `Thunderstorm` from Preferences -> Color Scheme -> User
 
 # Recommendations
 
